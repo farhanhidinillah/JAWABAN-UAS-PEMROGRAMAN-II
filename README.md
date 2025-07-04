@@ -10,7 +10,7 @@ Aplikasi ini merupakan program To-Do List berbasis desktop yang memungkinkan pen
 - Menandai tugas yang telah selesai
 - Menghapus tugas yang tidak diperlukan
 Aplikasi ini cocok digunakan untuk manajemen aktivitas harian secara sederhana dan efisien.
-###Cara Menjalankan Program
+### Cara Menjalankan Program
 - Ekstrak file aplikasi to-do list.zip
 - Buka NetBeans / IntelliJ IDEA
 - Pilih File → Open Project
