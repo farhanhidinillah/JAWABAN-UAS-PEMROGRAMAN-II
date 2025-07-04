@@ -1,7 +1,11 @@
 # JAWABAN UAS PEMROGRAMAN II
 
-### FARHAN HIDINILLAH
-### 221011400245
+## Anggota:
+ FARHAN HIDINILLAH
+ HEPPY AZIZZUL KHAKIM
+ ILHAM NURUL IKHSAN
+ KASNA IMANUEL
+ LUTFI NURWASFIAH
 ### Deskripsi Program
 Nama Program: Aplikasi To-Do List Sederhana
 Deskripsi Singkat:
